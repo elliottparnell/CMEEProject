@@ -6,6 +6,7 @@ If you have any questions or would like access to the photo dataset please email
 
 ## Project workflow 
 ### Step 1: Rename images
+Adapted from Mark Whittys code found at: https://github.com/markwhittyunsw/QR_image_renamer
 Use barcode-QRcodeScannerPy_vRAW.py to rename images based on qr code in image
 
 ### Step 2: Create image masks
